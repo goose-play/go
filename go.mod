@@ -1,4 +1,4 @@
-module yycelab.com/go/tools
+module yycelab.com/go-tools
 
 go 1.19
 
